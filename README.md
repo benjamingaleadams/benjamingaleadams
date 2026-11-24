@@ -1,6 +1,6 @@
 ### Hi, I'm Ben Adams 👋
 
-Political communications, campaign graphics and election data.
+I am interested in political communications, campaign graphics and election data.
 
 <table>
 <tr>
